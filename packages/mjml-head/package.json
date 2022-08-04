@@ -19,7 +19,7 @@
   "dependencies": {
     "babel-runtime": "^6.26.0",
     "lodash": "^4.17.15",
-    "mjml-core": "4.5.1"
+    "mjml-core": "4.13.0"
   },
   "devDependencies": {
     "cross-env": "^5.2.0"
